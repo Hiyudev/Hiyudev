@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=keyshd&style=flat-square)
+
 <div align="middle">
   <img src="https://github-readme-stats.vercel.app/api?username=keyshd&show_icons=true&theme=midnight-purple&hide_border=true" width="400" />
   <img src="http://github-readme-streak-stats.herokuapp.com?user=keyshd&theme=midnight-purple&hide_border=true" width="400"/> 
@@ -17,3 +19,4 @@
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
+
