@@ -3,8 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=keyshd&style=flat-square)
 
 <div align="middle">
-  <img src="https://github-readme-stats.vercel.app/api?username=keyshd&show_icons=true&theme=midnight-purple&hide_border=true" width="400" />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=keyshd&theme=midnight-purple&hide_border=true" width="400"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=keyshd&show_icons=true&theme=midnight-purple&hide_border=true&cache_seconds=1800" width="400" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=keyshd&theme=midnight-purple&hide_border=true&cache_seconds=1800" width="400"/> 
 </div>
 
 <h3 align="left">Language and Tools:</h3>
